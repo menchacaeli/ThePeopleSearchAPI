@@ -1,0 +1,14 @@
+/Users/administrator/Desktop/PeopleSearchApi/bin/Debug/netcoreapp2.1/PeopleSearchApi.deps.json
+/Users/administrator/Desktop/PeopleSearchApi/bin/Debug/netcoreapp2.1/PeopleSearchApi.runtimeconfig.json
+/Users/administrator/Desktop/PeopleSearchApi/bin/Debug/netcoreapp2.1/PeopleSearchApi.runtimeconfig.dev.json
+/Users/administrator/Desktop/PeopleSearchApi/bin/Debug/netcoreapp2.1/PeopleSearchApi.dll
+/Users/administrator/Desktop/PeopleSearchApi/bin/Debug/netcoreapp2.1/PeopleSearchApi.pdb
+/Users/administrator/Desktop/PeopleSearchApi/obj/Debug/netcoreapp2.1/PeopleSearchApi.csprojAssemblyReference.cache
+/Users/administrator/Desktop/PeopleSearchApi/obj/Debug/netcoreapp2.1/PeopleSearchApi.csproj.CoreCompileInputs.cache
+/Users/administrator/Desktop/PeopleSearchApi/obj/Debug/netcoreapp2.1/PeopleSearchApi.RazorAssemblyInfo.cache
+/Users/administrator/Desktop/PeopleSearchApi/obj/Debug/netcoreapp2.1/PeopleSearchApi.RazorAssemblyInfo.cs
+/Users/administrator/Desktop/PeopleSearchApi/obj/Debug/netcoreapp2.1/PeopleSearchApi.AssemblyInfoInputs.cache
+/Users/administrator/Desktop/PeopleSearchApi/obj/Debug/netcoreapp2.1/PeopleSearchApi.AssemblyInfo.cs
+/Users/administrator/Desktop/PeopleSearchApi/obj/Debug/netcoreapp2.1/PeopleSearchApi.RazorTargetAssemblyInfo.cache
+/Users/administrator/Desktop/PeopleSearchApi/obj/Debug/netcoreapp2.1/PeopleSearchApi.dll
+/Users/administrator/Desktop/PeopleSearchApi/obj/Debug/netcoreapp2.1/PeopleSearchApi.pdb

@@ -1,0 +1,145 @@
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-top: 42px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.navbar-brand {
+    letter-spacing: 1px;
+}
+
+.card {
+    border-radius: .75rem;
+}
+
+.modal-content {
+    border-radius: .75rem;
+}
+
+.form-group {
+    margin-bottom: .75rem;
+}
+
+.submit {
+    float: left;
+}
+
+.btn-submit {
+    color: #fff;
+    background-color: #343a41;
+    border-color: #343a41;
+}
+
+input {
+    margin: 6px 0 6px 0;
+}
+
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color: rgba(0, 0, 0, .03);
+    border-bottom: none;
+}
+
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #80bdff;
+    outline: 0;
+    box-shadow: 0 0 0 0.1rem rgba(0, 123, 255, 0.1);
+}
+
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    padding: .5rem 1.25rem .5rem 1.25rem;
+}
+
+.filter-row {
+    margin: .5rem 0 0 0.35rem;
+}
+
+.user-list {
+    max-height: 368px;
+    overflow: scroll;
+}
+
+.counter {
+    float: right;
+}
+
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: .35rem .35rem;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: .5px solid rgba(0, 0, 0, .125);
+}
+
+.user-name {
+    font-size: 1.25rem;
+}
+
+.fa {
+    font-size: 1.30rem;
+    float: left;
+    padding: .25rem .75rem;
+}
+
+.fa-male {
+    color: rgb(92, 122, 146);
+}
+
+.fa-female {
+    color: rgb(177, 149, 177);
+}
+
+.btn-primary.focus, .btn-primary:focus {
+    box-shadow: 0 0 0 0.1rem rgba(0,123,255,.5);
+}
+
+.btn {
+    padding: 0.275rem 0.575rem;
+    font-size: .75rem;
+}
+
+.btn-secondary.focus, .btn-secondary:focus {
+    box-shadow: 0 0 0 0.1rem rgba(108,117,125,.5);
+}
+
+.detail {
+    float: right;
+}
+
+.btn-danger.focus, .btn-danger:focus {
+    box-shadow: 0 0 0 0.1rem rgba(220,53,69,.5);
+}
+
+.delete {
+    float: right;
+    margin-right: .5rem;
+}
+
+.btn-info.focus, .btn-info:focus {
+    box-shadow: 0 0 0 0.1rem rgba(23,162,184,.5);
+}
+
+.edit {
+    float: right;
+    margin-right: .5rem;
+}
+
+.progress {
+    display: -ms-flexbox;
+    display: flex;
+    height: .5rem;
+    overflow: hidden;
+    font-size: .75rem;
+    background-color: #e9ecef;
+    border-radius: .25rem;
+    margin-top: 1rem;
+}
